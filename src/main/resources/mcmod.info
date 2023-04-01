@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MTFCore",
+  "name": "mr_ten_fan Core",
+  "description": "It's a core mod for my and other authors mods",
+  "version": "1.1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mr_ten_fan"],
+  "credits": "Special thanks for: Vadimka(Coding)",
+  "logoFile": "mr_ten_fan-Core.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
